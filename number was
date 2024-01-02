@@ -1,0 +1,5 @@
+  else:
+                print(f"Unfortunately, you've run out of attempts. The secret number was {secret_number}.")
+
+if name == "__main__":
+    main()
